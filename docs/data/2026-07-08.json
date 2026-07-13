@@ -1,0 +1,19 @@
+{
+  "data": "2026-07-08",
+  "domani": "Riposo o camminata. Gambe pronte per il blocco di qualità.",
+  "riepilogo": "Settimana ben gestita: carico in crescita graduale, nessun segnale di affaticamento eccessivo. Continua così.",
+  "punti": [
+    "Carico in aumento sano, senza picchi di FC a riposo.",
+    "Dislivello settimanale in linea con l'obiettivo 10k collinare."
+  ],
+  "metriche": {
+    "prontezza": 74,
+    "fc_riposo": 51,
+    "hrv": "68ms",
+    "sonno_h": 7.6,
+    "vo2max": 49,
+    "carico_7gg_km": 28.9,
+    "ultima_attivita": "Medio collinare – 8.4 km, 180 m D+"
+  },
+  "demo": true
+}

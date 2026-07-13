@@ -1,0 +1,45 @@
+{
+  "aggiornato": "2026-07-11 (demo)",
+  "carico_prossimo": "Mese a carico crescente con scarico in S4 verso il test/gara.",
+  "note": "Progressione sulle salite nelle prime 3 settimane, poi scarico e ritmo gara in S4.",
+  "riepilogo_settimana": "Prima settimana solida: buona tenuta in salita e recupero regolare.",
+  "tipo": "mensile",
+  "settimane": [
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 40'",
+      "Mer": "Ripetute in salita 5x2' (rec pieno)",
+      "Gio": "Facile 30'",
+      "Ven": "Riposo",
+      "Sab": "Lungo 12 km controllato",
+      "Dom": "Rigenerante 30'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 45'",
+      "Mer": "Ripetute in salita 6x2'",
+      "Gio": "Facile 6 km",
+      "Ven": "Riposo",
+      "Sab": "Lungo 14 km",
+      "Dom": "Rigenerante 30'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 45'",
+      "Mer": "Salite lunghe 4x4'",
+      "Gio": "Medio 8 km collinare",
+      "Ven": "Riposo",
+      "Sab": "Lungo 16 km",
+      "Dom": "Rigenerante 35'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 35' + allunghi",
+      "Mer": "Ritmo gara 4 km",
+      "Gio": "Facile 30'",
+      "Ven": "Riposo scarico",
+      "Sab": "Gara / test 10k",
+      "Dom": "Rigenerante 30'"
+    }
+  ]
+}

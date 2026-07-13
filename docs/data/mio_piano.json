@@ -1,0 +1,52 @@
+{
+  "obiettivo": "Abbassare il passo/km nelle gare di 10 km con dislivello (collinare/trail)",
+  "aggiornato": "2026-07-11 (demo)",
+  "giorni": {
+    "Lun": "Riposo",
+    "Mar": "Ripetute in salita 6x2'",
+    "Mer": "Corsa facile 40'",
+    "Gio": "Medio 8 km collinare",
+    "Ven": "Riposo",
+    "Sab": "Lungo 14 km con dislivello",
+    "Dom": "Rigenerante 30'"
+  },
+  "tipo": "mensile",
+  "settimane": [
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 40'",
+      "Mer": "Ripetute in salita 5x2'",
+      "Gio": "Facile 35'",
+      "Ven": "Riposo",
+      "Sab": "Lungo 12 km dislivello",
+      "Dom": "Rigenerante 30'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 45'",
+      "Mer": "Ripetute in salita 6x2'",
+      "Gio": "Medio 6 km",
+      "Ven": "Riposo",
+      "Sab": "Lungo 14 km dislivello",
+      "Dom": "Rigenerante 30'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 45'",
+      "Mer": "Salite lunghe 4x4'",
+      "Gio": "Medio 8 km collinare",
+      "Ven": "Riposo",
+      "Sab": "Lungo 16 km dislivello",
+      "Dom": "Rigenerante 35'"
+    },
+    {
+      "Lun": "Riposo",
+      "Mar": "Facile 35'",
+      "Mer": "Ritmo gara 4 km",
+      "Gio": "Facile 30'",
+      "Ven": "Riposo",
+      "Sab": "Gara / test 10k",
+      "Dom": "Rigenerante 30'"
+    }
+  ]
+}

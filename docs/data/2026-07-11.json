@@ -1,0 +1,21 @@
+{
+  "data": "2026-07-11",
+  "domani": "Facile 6 km in scioltezza, niente ritmo. Recupero dalle salite di ieri.",
+  "riepilogo": "Le ripetute in salita hanno lasciato il segno: prontezza media e HRV un filo sotto la tua base. Recupero attivo così il lungo di sabato è di qualità.",
+  "punti": [
+    "Prontezza 63: giornata di scarico, non di ritmo.",
+    "Buona spinta in salita nelle ripetute di ieri.",
+    "HRV leggermente sotto media: normale dopo l'intensità.",
+    "Sonno regolare, recupero sulla buona strada."
+  ],
+  "metriche": {
+    "prontezza": 63,
+    "fc_riposo": 52,
+    "hrv": "62ms",
+    "sonno_h": 7.4,
+    "vo2max": 49,
+    "carico_7gg_km": 38.6,
+    "ultima_attivita": "Ripetute in salita – 8.1 km, 260 m D+"
+  },
+  "demo": true
+}

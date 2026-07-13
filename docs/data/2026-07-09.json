@@ -1,0 +1,20 @@
+{
+  "data": "2026-07-09",
+  "domani": "Corsa facile 40'. Giornata pronta, ma tieni il ritmo blando.",
+  "riepilogo": "Recupero buono e prontezza alta. Base solida per affrontare le ripetute in salita nei prossimi giorni.",
+  "punti": [
+    "Prontezza 76: verde, pronta a caricare.",
+    "HRV sopra media: ottimo recupero.",
+    "Passo in scioltezza migliorato rispetto a settimana scorsa."
+  ],
+  "metriche": {
+    "prontezza": 76,
+    "fc_riposo": 50,
+    "hrv": "71ms",
+    "sonno_h": 8.0,
+    "vo2max": 49,
+    "carico_7gg_km": 31.2,
+    "ultima_attivita": "Corsa facile – 7.0 km, 90 m D+"
+  },
+  "demo": true
+}
