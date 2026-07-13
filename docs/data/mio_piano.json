@@ -1,52 +1,53 @@
 {
-  "obiettivo": "Abbassare il passo/km nelle gare di 10 km con dislivello (collinare/trail)",
-  "aggiornato": "2026-07-11 (demo)",
-  "giorni": {
-    "Lun": "Riposo",
-    "Mar": "Ripetute in salita 6x2'",
-    "Mer": "Corsa facile 40'",
-    "Gio": "Medio 8 km collinare",
-    "Ven": "Riposo",
-    "Sab": "Lungo 14 km con dislivello",
-    "Dom": "Rigenerante 30'"
-  },
+  "obiettivo": "Abbassare il passo/km nella 10k con dislivello di gara (periodizzazione verso la gara ~CW29)",
   "tipo": "mensile",
+  "aggiornato": "2026-07-13",
+  "note": "Blocco CW24–CW27. Da CW27 inizia lo scarico pre-gara; gara prevista ~CW29.",
   "settimane": [
     {
-      "Lun": "Riposo",
-      "Mar": "Facile 40'",
-      "Mer": "Ripetute in salita 5x2'",
-      "Gio": "Facile 35'",
-      "Ven": "Riposo",
-      "Sab": "Lungo 12 km dislivello",
-      "Dom": "Rigenerante 30'"
+      "Lun": "Workout (palestra)",
+      "Mar": "Salite corte 9km: 7×1' salita, rec in discesa",
+      "Mer": "Workout (palestra)",
+      "Gio": "Tempo 8km: 4km a 5:20–5:25",
+      "Ven": "Pausa",
+      "Sab": "Trail 13km, 300m D+",
+      "Dom": "Workout leggero"
     },
     {
-      "Lun": "Riposo",
-      "Mar": "Facile 45'",
-      "Mer": "Ripetute in salita 6x2'",
-      "Gio": "Medio 6 km",
-      "Ven": "Riposo",
-      "Sab": "Lungo 14 km dislivello",
-      "Dom": "Rigenerante 30'"
+      "Lun": "Workout (palestra)",
+      "Mar": "Ripetute 10km: 6×1km a 4:55–5:00, rec 2'",
+      "Mer": "Workout (palestra)",
+      "Gio": "Corsa media 8–10km easy",
+      "Ven": "Pausa",
+      "Sab": "Simulazione gara 11–12km, 300m D+ (salite senza esplodere)",
+      "Dom": "Workout leggero"
     },
     {
-      "Lun": "Riposo",
-      "Mar": "Facile 45'",
-      "Mer": "Salite lunghe 4x4'",
-      "Gio": "Medio 8 km collinare",
-      "Ven": "Riposo",
-      "Sab": "Lungo 16 km dislivello",
-      "Dom": "Rigenerante 35'"
+      "Lun": "Workout (palestra)",
+      "Mar": "Salite + soglia 9km: 5×2' salita + 3×3' a 5:15",
+      "Mer": "Workout (palestra)",
+      "Gio": "Progressivo 9km: 6:15 → 5:45 → 5:30",
+      "Ven": "Pausa",
+      "Sab": "Trail specifico 12km, 250–300m D+",
+      "Dom": "Workout leggero"
     },
     {
-      "Lun": "Riposo",
-      "Mar": "Facile 35'",
-      "Mer": "Ritmo gara 4 km",
-      "Gio": "Facile 30'",
-      "Ven": "Riposo",
-      "Sab": "Gara / test 10k",
-      "Dom": "Rigenerante 30'"
+      "Lun": "Workout (palestra)",
+      "Mar": "800m: 6×800m a 4:50–5:00, rec 2'",
+      "Mer": "Workout (palestra)",
+      "Gio": "Easy 7km + 3×100m allunghi",
+      "Ven": "Pausa",
+      "Sab": "Trail fluido 10–11km, 200–250m D+ (inizio scarico)",
+      "Dom": "Workout leggero"
     }
-  ]
+  ],
+  "giorni": {
+    "Lun": "Workout (palestra)",
+    "Mar": "Salite corte 9km: 7×1' salita, rec in discesa",
+    "Mer": "Workout (palestra)",
+    "Gio": "Tempo 8km: 4km a 5:20–5:25",
+    "Ven": "Pausa",
+    "Sab": "Trail 13km, 300m D+",
+    "Dom": "Workout leggero"
+  }
 }
