@@ -1,8 +1,7 @@
 {
   "obiettivo": "Abbassare il passo/km nella 10k con dislivello di gara (periodizzazione verso la gara ~CW29)",
   "tipo": "mensile",
-  "aggiornato": "2026-07-13",
-  "note": "Blocco CW24–CW27. Da CW27 inizia lo scarico pre-gara; gara prevista ~CW29.",
+  "aggiornato": "2026-07-15",
   "settimane": [
     {
       "Lun": "Workout (palestra)",
@@ -49,5 +48,6 @@
     "Ven": "Pausa",
     "Sab": "Trail 13km, 300m D+",
     "Dom": "Workout leggero"
-  }
+  },
+  "note": "Blocco CW24–CW27. Da CW27 inizia lo scarico pre-gara; gara prevista ~CW29."
 }
