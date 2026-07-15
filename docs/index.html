@@ -357,7 +357,14 @@ async function ghPut(path,obj,message,cfg){
   const content=btoa(unescape(encodeURIComponent(JSON.stringify(obj,null,2))));
   const body={message,content,branch:cfg.branch};if(sha)body.sha=sha;
   const p=await fetch(api,{method:'PUT',headers:hdr,body:JSON.stringify(body)});
-  if(!p.ok)throw new Error('GitHub '+p.status);
+  if(!p.ok){
+    let det='';
+    try{const j=await p.json();det=j.message||'';}catch(e){}
+    if(p.status===403)det=det||'Il token non ha il permesso Contents: Read and write su questo repo.';
+    if(p.status===404)det=det||'Repo/owner non trovati, o il token non vede questo repo.';
+    if(p.status===401)det=det||'Token non valido o scaduto.';
+    throw new Error('GitHub '+p.status+' — '+det);
+  }
 }
 
 /* ---------- settings modal ---------- */
