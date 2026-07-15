@@ -223,12 +223,13 @@ function detectRepo(){
   const repo=seg.length?seg[0]:(owner?owner+'.github.io':'');
   return {owner,repo};
 }
+function cfgKey(){return 'apexCfg:'+detectRepo().repo;}
 function getCfg(){
   const d=detectRepo();
-  let s={}; try{s=JSON.parse(localStorage.getItem('apexCfg')||'{}');}catch(e){}
+  let s={}; try{s=JSON.parse(localStorage.getItem(cfgKey())||'{}');}catch(e){}
   return {owner:s.owner||d.owner, repo:s.repo||d.repo, branch:s.branch||'main', token:s.token||''};
 }
-function saveCfg(c){localStorage.setItem('apexCfg',JSON.stringify(c));}
+function saveCfg(c){localStorage.setItem(cfgKey(),JSON.stringify(c));}
 
 /* ---------- load ---------- */
 async function jget(p){try{const r=await fetch(p+'?ts='+Date.now());if(r.ok)return await r.json();}catch(e){}return null;}
