@@ -1,9 +1,9 @@
 {
-  "aggiornato": "2026-09-13",
+  "aggiornato": "2026-09-20",
   "tipo": "mensile",
   "note": "",
   "carico_prossimo": "",
-  "riepilogo_settimana": "{\"riepilogo_settimana\":\"Nessuna attività Garmin disponibile questa settimana (METRICHE e ATTIVITA_7GG vuoti), quindi non posso confrontare pianificato vs reale nei dettagli di passo/FC/cadenza. Dalle NOTE risulta comunque rispettata la logica del blocco CW24-27 con scarico che parte da CW27 verso la gara CW29: procedo assumendo aderenza al piano ma resto prudente sul carico finché non arrivano dat",
+  "riepilogo_settimana": "",
   "settimane": [
     {
       "Lun": "Workout (palestra)",
