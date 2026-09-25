@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-09-24",
+  "ultimo_aggiornamento": "2026-09-25",
   "giorni": {
     "2026-07-08": {
       "color": "green",
@@ -294,6 +294,10 @@
       "prontezza": null
     },
     "2026-09-24": {
+      "color": "gray",
+      "prontezza": null
+    },
+    "2026-09-25": {
       "color": "gray",
       "prontezza": null
     }
