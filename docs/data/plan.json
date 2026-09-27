@@ -1,9 +1,9 @@
 {
-  "aggiornato": "2026-09-20",
+  "aggiornato": "2026-09-27",
   "tipo": "mensile",
   "note": "",
   "carico_prossimo": "",
-  "riepilogo_settimana": "",
+  "riepilogo_settimana": "{\n  \"riepilogo_settimana\": \"Pianificato: salite corte, tempo run e trail 13km; fatto solo ripetute leggere in salita (mer) e una camminata lunga (dom) al posto del trail di corsa. Carico settimanale crollato a 12.2km vs ~30km previsti, sessioni palestra e tempo run saltate. FC a riposo alta (82) e volume basso indicano affaticamento/recupero incompleto, non uno scarico programmato.\",\n  \"piano\": {\n",
   "settimane": [
     {
       "Lun": "Workout (palestra)",
