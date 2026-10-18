@@ -1,45 +1,53 @@
 {
-  "aggiornato": "2026-10-12",
+  "aggiornato": "2026-10-18",
   "tipo": "mensile",
   "note": "",
   "carico_prossimo": "",
-  "riepilogo_settimana": "",
+  "riepilogo_settimana": "Nessun dato Garmin disponibile questa settimana (attività e metriche vuote), quindi non posso confrontare pianificato vs reale in dettaglio. Dalle note risulta che il blocco CW24–CW27 è stato svolto e che da CW27 inizia lo scarico pre-gara (CW29). In assenza di segnali di affaticamento/HRV, procedo seguendo la periodizzazione già impostata, con cautela.",
   "settimane": [
     {
-      "Lun": "Workout (palestra)",
+      "Lun": "Workout (palestra) leggero",
       "Mar": "Salite corte 9km: 7×1' salita, rec in discesa",
       "Mer": "Workout (palestra)",
       "Gio": "Tempo 8km: 4km a 5:20–5:25",
       "Ven": "Pausa",
       "Sab": "Trail 13km, 300m D+",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero / mobilità",
+      "note": "Ultima settimana di carico pieno: mantieni volume e intensità come da piano per consolidare soglia e gambe in salita.",
+      "carico_prossimo": "Carico alto, ultima settimana prima dell'intensificazione finale verso il picco."
     },
     {
       "Lun": "Workout (palestra)",
       "Mar": "Ripetute 10km: 6×1km a 4:55–5:00, rec 2'",
-      "Mer": "Workout (palestra)",
+      "Mer": "Workout (palestra) leggero",
       "Gio": "Corsa media 8–10km easy",
       "Ven": "Pausa",
       "Sab": "Simulazione gara 11–12km, 300m D+ (salite senza esplodere)",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero",
+      "note": "Settimana chiave: simulazione gara serve a tarare passo gara su dislivello reale; senza dati Garmin monitora sensazioni e FC in salita.",
+      "carico_prossimo": "Picco di carico del mese, poi inizia la discesa verso lo scarico."
     },
     {
-      "Lun": "Workout (palestra)",
+      "Lun": "Workout (palestra) leggero",
       "Mar": "Salite + soglia 9km: 5×2' salita + 3×3' a 5:15",
-      "Mer": "Workout (palestra)",
+      "Mer": "Workout (palestra) leggero",
       "Gio": "Progressivo 9km: 6:15 → 5:45 → 5:30",
       "Ven": "Pausa",
       "Sab": "Trail specifico 12km, 250–300m D+",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero / recupero attivo",
+      "note": "Primo step di scarico come da nota atleta: riduci leggermente intensità palestra per favorire assorbimento del carico precedente.",
+      "carico_prossimo": "Inizio scarico: volume e intensità in lieve calo per preparare la fase finale."
     },
     {
-      "Lun": "Workout (palestra)",
-      "Mar": "800m: 6×800m a 4:50–5:00, rec 2'",
-      "Mer": "Workout (palestra)",
+      "Lun": "Pausa o mobilità leggera",
+      "Mar": "800m: 5×800m a 4:50–5:00, rec 2' (volume ridotto)",
+      "Mer": "Workout (palestra) molto leggero",
       "Gio": "Easy 7km + 3×100m allunghi",
       "Ven": "Pausa",
-      "Sab": "Trail fluido 10–11km, 200–250m D+ (inizio scarico)",
-      "Dom": "Workout leggero"
+      "Sab": "Trail fluido 8–10km, 150–200m D+ (scarico finale)",
+      "Dom": "Riposo completo",
+      "note": "Settimana di scarico pieno pre-gara (CW29): priorità a freschezza, FC bassa e gambe reattive, non cercare prestazioni.",
+      "carico_prossimo": "Taper completo: arrivo alla 10k con serbatoio pieno e cadenza/ritmo gara ben automatizzati."
     }
   ]
 }
