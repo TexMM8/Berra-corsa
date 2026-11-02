@@ -1,9 +1,9 @@
 {
-  "aggiornato": "2026-10-25",
+  "aggiornato": "2026-11-02",
   "tipo": "mensile",
   "note": "",
   "carico_prossimo": "",
-  "riepilogo_settimana": "",
+  "riepilogo_settimana": "{\"riepilogo_settimana\":\"Nessun dato Garmin disponibile questa settimana (attività e metriche vuote): non posso confrontare pianificato vs reale né valutare FC/HRV/carico reali. Mantengo quindi il piano originale come riferimento, con piccoli accorgimenti precauzionali vista l'assenza di feedback oggettivo, e confermo la periodizzazione verso lo scarico pre-gara (CW27→taper, gara CW29).\",\"piano\":{\"",
   "settimane": [
     {
       "Lun": "Workout (palestra)",
