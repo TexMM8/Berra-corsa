@@ -1,45 +1,53 @@
 {
-  "aggiornato": "2026-11-02",
+  "aggiornato": "2026-11-09",
   "tipo": "mensile",
   "note": "",
   "carico_prossimo": "",
-  "riepilogo_settimana": "{\"riepilogo_settimana\":\"Nessun dato Garmin disponibile questa settimana (attività e metriche vuote): non posso confrontare pianificato vs reale né valutare FC/HRV/carico reali. Mantengo quindi il piano originale come riferimento, con piccoli accorgimenti precauzionali vista l'assenza di feedback oggettivo, e confermo la periodizzazione verso lo scarico pre-gara (CW27→taper, gara CW29).\",\"piano\":{\"",
+  "riepilogo_settimana": "Nessun dato Garmin sincronizzato questa settimana (ATTIVITA_7GG e METRICHE vuoti): non posso verificare cosa hai davvero fatto rispetto al piano. Dalle NOTE_ATLETA risulta che sei nel blocco CW24–27 con scarico da CW27 e gara a CW29, quindi mantengo la struttura ma resto prudente senza segnali di forma/recupero.",
   "settimane": [
     {
       "Lun": "Workout (palestra)",
       "Mar": "Salite corte 9km: 7×1' salita, rec in discesa",
-      "Mer": "Workout (palestra)",
+      "Mer": "Workout (palestra) leggero",
       "Gio": "Tempo 8km: 4km a 5:20–5:25",
       "Ven": "Pausa",
       "Sab": "Trail 13km, 300m D+",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero o riposo attivo",
+      "note": "Senza dati di carico/HRV mantengo il blocco come da piano; se la prossima settimana risultano salti o fatica, ridurrò subito l'intensità.",
+      "carico_prossimo": "Settimana di costruzione, carico medio-alto verso specificità salita+soglia."
     },
     {
       "Lun": "Workout (palestra)",
       "Mar": "Ripetute 10km: 6×1km a 4:55–5:00, rec 2'",
-      "Mer": "Workout (palestra)",
+      "Mer": "Workout (palestra) leggero",
       "Gio": "Corsa media 8–10km easy",
       "Ven": "Pausa",
       "Sab": "Simulazione gara 11–12km, 300m D+ (salite senza esplodere)",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero o riposo attivo",
+      "note": "Picco del blocco: simulazione gara chiave per calibrare passo su dislivello reale, coerente con obiettivo CW29.",
+      "carico_prossimo": "Punto di massimo carico del mese, poi inizia la discesa verso lo scarico."
     },
     {
       "Lun": "Workout (palestra)",
       "Mar": "Salite + soglia 9km: 5×2' salita + 3×3' a 5:15",
-      "Mer": "Workout (palestra)",
+      "Mer": "Workout (palestra) leggero",
       "Gio": "Progressivo 9km: 6:15 → 5:45 → 5:30",
       "Ven": "Pausa",
       "Sab": "Trail specifico 12km, 250–300m D+",
-      "Dom": "Workout leggero"
+      "Dom": "Workout leggero o riposo attivo",
+      "note": "Inizio riduzione volume/intensità rispetto a S2 per assorbire il carico prima dello scarico vero (da CW27, come da note).",
+      "carico_prossimo": "Transizione: carico in leggera discesa per preparare lo scarico pre-gara."
     },
     {
-      "Lun": "Workout (palestra)",
-      "Mar": "800m: 6×800m a 4:50–5:00, rec 2'",
-      "Mer": "Workout (palestra)",
+      "Lun": "Workout (palestra) molto leggero",
+      "Mar": "800m: 6×800m a 4:50–5:00, rec 2' (ridurre a 4-5 rip. se stanchezza)",
+      "Mer": "Workout (palestra) leggero o riposo",
       "Gio": "Easy 7km + 3×100m allunghi",
       "Ven": "Pausa",
       "Sab": "Trail fluido 10–11km, 200–250m D+ (inizio scarico)",
-      "Dom": "Workout leggero"
+      "Dom": "Riposo o workout molto leggero",
+      "note": "Scarico reale verso CW29: volumi e intensità ridotti, mantenendo solo stimoli brevi di velocità/salita per restare reattivi.",
+      "carico_prossimo": "Settimana di scarico: priorità al recupero per arrivare fresca alla gara."
     }
   ]
 }
